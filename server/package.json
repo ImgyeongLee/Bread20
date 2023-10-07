@@ -2,13 +2,14 @@
   "name": "server",
   "version": "1.0.0",
   "description": "api server for bread20",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "fun"
   ],
+  "type": "module",
   "author": "ImgyeongLee",
   "license": "MIT"
 }
