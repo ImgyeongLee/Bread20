@@ -11,5 +11,8 @@
   ],
   "type": "module",
   "author": "ImgyeongLee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
 }
