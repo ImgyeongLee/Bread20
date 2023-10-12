@@ -4,7 +4,7 @@
   "description": "api server for bread20",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "keywords": [
     "fun"
@@ -13,6 +13,7 @@
   "author": "ImgyeongLee",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^3.0.1",
     "socket.io": "^4.7.2"
   }
 }
